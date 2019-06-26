@@ -2,11 +2,14 @@ font.family : sans-serif
 
 axes.facecolor : white
 axes.prop_cycle : cycler('color',['e41a1c', '377eb8', '4daf4a', '984ea3', 'ff7f00', 'ffff33', 'a65628', 'f781bf'])
-axes.linewidth : 0.0
 axes.grid : True
 
-lines.linewidth : 1.5
-
+axes.titlesize : 24
+axes.labelsize : 20
+lines.linewidth : 3
+lines.markersize : 10
+xtick.labelsize : 16
+ytick.labelsize : 16
 xtick.direction : in
 ytick.direction : in
 

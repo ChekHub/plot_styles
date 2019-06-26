@@ -17,5 +17,6 @@ grid.color : c7dedf
 grid.linestyle : -
 grid.linewidth : 0.3
 
-figure.figsize : [10, 5]
+figure.figsize : 10, 5
+figure.dpi : 400
 legend.loc : best

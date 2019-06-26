@@ -3,10 +3,10 @@ font.family : sans-serif
 axes.facecolor : white
 axes.prop_cycle : cycler('color',['e41a1c', '377eb8', '4daf4a', '984ea3', 'ff7f00', 'ffff33', 'a65628', 'f781bf'])
 axes.grid : True
-axes.linewidth : 1
+axes.linewidth : 2
 axes.titlesize : 24
 axes.labelsize : 20
-lines.linewidth : 3
+lines.linewidth : 2
 lines.markersize : 10
 xtick.labelsize : 16
 ytick.labelsize : 16
@@ -18,5 +18,5 @@ grid.linestyle : -
 grid.linewidth : 0.3
 
 figure.figsize : 10, 5
-figure.dpi : 400
+figure.dpi : 200
 legend.loc : best

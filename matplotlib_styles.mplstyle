@@ -19,7 +19,7 @@ ytick.direction : in
 
 grid.color : cccccc
 grid.linestyle : --
-grid.linewidth : 0.4
+grid.linewidth : 0.8
 
 figure.figsize : 15, 9.27
 figure.dpi : 300

@@ -35,3 +35,4 @@ savefig.dpi: 600
 
 legend.loc : best
 legend.frameon : True  
+legend.fontsize: 18

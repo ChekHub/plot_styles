@@ -9,7 +9,11 @@ axes.grid : True
 axes.linewidth : 2
 axes.titlesize : 24
 axes.labelsize : 20
-axes.axes.autoscale_on	= True
+axes.autoscale.enable : True
+axes.autoscale.axis : x
+axes.autoscale.tight : True
+
+
 lines.linewidth : 2.5
 lines.markersize : 10
 lines.linestyle   : - 

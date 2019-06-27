@@ -3,8 +3,8 @@ font.family : Sans-Serif
 font.size: 20
 
 figure.titleweight: normal
-figure.figsize : 11, 6.798
-figure.dpi : 225
+figure.figsize : 10, 6.18
+figure.dpi : 80
 
 axes.facecolor : white
 axes.prop_cycle : cycler('color',['e41a1c', '377eb8', '4daf4a', '984ea3', 'ff7f00', 'ffff33', 'a65628', 'f781bf'])

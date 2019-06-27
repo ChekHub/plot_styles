@@ -10,6 +10,8 @@ lines.linewidth : 2.5
 lines.markersize : 10
 xtick.labelsize : 16
 ytick.labelsize : 16
+xtick.major.width    : 1.5    # major tick width in points
+ytick.major.width    : 1.5    # major tick width in points
 xtick.direction : in
 ytick.direction : in
 
@@ -17,6 +19,7 @@ grid.color : c7dedf
 grid.linestyle : -
 grid.linewidth : 0.3
 
-figure.figsize : 15, 7
-figure.dpi : 200
+figure.figsize : 15, 9.27
+figure.dpi : 300
 legend.loc : best
+legend.frameon : True  

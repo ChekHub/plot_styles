@@ -1,4 +1,4 @@
-backend: PS
+backend: PDF
 font.family : sans-serif
 font.size: 20
 figure.titleweight: normal
@@ -28,7 +28,7 @@ grid.linestyle : --
 grid.linewidth : 1
 grid.alpha : 0.6
 
-figure.figsize : 10, 6
+figure.figsize : 13, 8.034
 figure.dpi : 300
 savefig.dpi: 600
 

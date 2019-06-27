@@ -1,4 +1,7 @@
+backend: PS
 font.family : sans-serif
+font.size: 20
+figure.titleweight: normal
 
 axes.facecolor : white
 axes.prop_cycle : cycler('color',['e41a1c', '377eb8', '4daf4a', '984ea3', 'ff7f00', 'ffff33', 'a65628', 'f781bf'])
@@ -12,8 +15,10 @@ lines.linestyle   : -
 
 xtick.labelsize : 16
 ytick.labelsize : 16
-xtick.major.width    : 1.5    # major tick width in points
-ytick.major.width    : 1.5    # major tick width in points
+xtick.major.size: 4
+ytick.major.size: 4
+xtick.major.width    : 0.5    # major tick width in points
+ytick.major.width    : 0.5    # major tick width in points
 xtick.direction : in
 ytick.direction : in
 
@@ -24,5 +29,7 @@ grid.alpha : 0.6
 
 figure.figsize : 15, 9.27
 figure.dpi : 300
+savefig.dpi: 600
+
 legend.loc : best
 legend.frameon : True  

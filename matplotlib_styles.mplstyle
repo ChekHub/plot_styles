@@ -11,7 +11,6 @@ axes.prop_cycle : cycler('color',['e41a1c', '377eb8', '4daf4a', '984ea3', 'ff7f0
 axes.grid : True
 axes.linewidth : 2
 axes.titlesize : 24
-axes.titlepad = 20
 axes.labelsize : 20
 
 lines.linewidth : 2.5

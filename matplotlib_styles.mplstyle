@@ -1,5 +1,5 @@
 backend: PDF
-font.family : Sans-Serif
+font.family : Times New Roman
 font.size: 20
 
 figure.titleweight: normal
@@ -17,8 +17,8 @@ lines.linewidth : 2.5
 lines.markersize : 10
 lines.linestyle   : - 
 
-xtick.labelsize : 16
-ytick.labelsize : 16
+xtick.labelsize : 18
+ytick.labelsize : 18
 xtick.major.size: 6
 ytick.major.size: 6
 xtick.major.width    : 2    # major tick width in points

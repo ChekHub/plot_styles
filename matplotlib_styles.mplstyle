@@ -30,7 +30,7 @@ grid.linestyle : --
 grid.linewidth : 1
 grid.alpha : 0.6
 
-figure.figsize : 13, 8.034
+figure.figsize : 9, 5.562
 figure.dpi : 300
 savefig.dpi: 600
 

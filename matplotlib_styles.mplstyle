@@ -2,8 +2,9 @@ backend: PDF
 font.family : Sans-Serif
 font.size: 20
 
-title.loc= left
 figure.titleweight: normal
+figure.figsize : 9, 5.562
+figure.dpi : 300
 
 axes.facecolor : white
 axes.prop_cycle : cycler('color',['e41a1c', '377eb8', '4daf4a', '984ea3', 'ff7f00', 'ffff33', 'a65628', 'f781bf'])
@@ -30,8 +31,6 @@ grid.linestyle : --
 grid.linewidth : 1
 grid.alpha : 0.6
 
-figure.figsize : 9, 5.562
-figure.dpi : 300
 savefig.dpi: 600
 
 legend.loc : best

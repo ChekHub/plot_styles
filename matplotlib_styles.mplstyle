@@ -17,9 +17,10 @@ ytick.major.width    : 1.5    # major tick width in points
 xtick.direction : in
 ytick.direction : in
 
-grid.color : 7e7e7e
+grid.color : 00000
 grid.linestyle : --
-grid.linewidth : 0.8
+grid.linewidth : 1
+grid.alpha : 0.6
 
 figure.figsize : 15, 9.27
 figure.dpi : 300

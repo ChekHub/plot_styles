@@ -15,8 +15,8 @@ lines.linestyle   : -
 
 xtick.labelsize : 16
 ytick.labelsize : 16
-xtick.major.size: 8
-ytick.major.size: 8
+xtick.major.size: 6
+ytick.major.size: 6
 xtick.major.width    : 2    # major tick width in points
 ytick.major.width    : 2    # major tick width in points
 xtick.direction : in
@@ -28,7 +28,7 @@ grid.linewidth : 1
 grid.alpha : 0.6
 
 figure.figsize : 13, 8.034
-figure.dpi : 250
+figure.dpi : 275
 savefig.dpi: 600
 
 legend.loc : best

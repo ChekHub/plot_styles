@@ -2,7 +2,7 @@ backend: PDF
 font.family : Sans-Serif
 font.size: 20
 
-figure.title.loc= left
+title.loc= left
 figure.titleweight: normal
 
 axes.facecolor : white

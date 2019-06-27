@@ -3,7 +3,7 @@ font.family : Sans-Serif
 font.size: 20
 
 figure.titleweight: normal
-figure.figsize : 9, 5.562
+figure.figsize : 11, 6.798
 figure.dpi : 300
 
 axes.facecolor : white

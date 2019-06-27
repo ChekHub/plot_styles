@@ -1,6 +1,8 @@
 backend: PDF
 font.family : Cambria
 font.size: 20
+font.loc= left
+
 figure.titleweight: normal
 
 axes.facecolor : white

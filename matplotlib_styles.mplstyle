@@ -27,8 +27,8 @@ grid.linestyle : --
 grid.linewidth : 1
 grid.alpha : 0.6
 
-figure.figsize : 15, 9
-figure.dpi : 275
+figure.figsize : 10, 6
+figure.dpi : 300
 savefig.dpi: 600
 
 legend.loc : best

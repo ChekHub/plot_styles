@@ -29,8 +29,8 @@ ytick.direction : in
 
 grid.color : 808080
 grid.linestyle : -
-grid.linewidth : 0.25
-grid.alpha : 0.7
+grid.linewidth : 0.7
+grid.alpha : 0.25
 
 savefig.dpi: 600
 

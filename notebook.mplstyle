@@ -18,7 +18,6 @@ axes.labelsize : 20
 lines.linewidth : 2.5
 lines.markersize : 10
 lines.linestyle   : '-' 
-lines.alpha : 0.85
 
 xtick.labelsize : 18
 ytick.labelsize : 18

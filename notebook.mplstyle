@@ -28,7 +28,7 @@ ytick.major.width    : 2    # major tick width in points
 xtick.direction : in
 ytick.direction : in
 
-grid.color : 'gray'
+grid.color : #808080
 grid.linestyle : '-'
 grid.linewidth : 0.25
 grid.alpha : 0.7
